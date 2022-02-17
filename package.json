@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@tovaswap/sdk",
   "license": "MIT",
   "version": "2.4.0",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of TovaSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "https://github.com/chdomenech/pancake-swap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "tovswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
