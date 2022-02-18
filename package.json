@@ -1,5 +1,5 @@
 {
-  "name": "@tovaswap/sdk",
+  "name": "@tovaswapsdk/sdk",
   "license": "MIT",
   "version": "2.4.0",
   "description": "🛠 An SDK for building applications on top of TovaSwap.",
@@ -54,5 +54,8 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
